@@ -1,6 +1,6 @@
 # Microsoft Visual Studio .NET 2003 SP1 (MSVC v7.10 / 13.10)
 
-This is a stripped version that can reliably compile C++. No old .NET version is needed.
+This is a stripped version that can reliably compile C++. .NET 1.1 is NOT needed.
 
 - +KB918007 (SP1)
 
