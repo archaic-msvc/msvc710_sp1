@@ -2,7 +2,7 @@
 
 This is a stripped version that can reliably compile C++. No old .NET version is needed.
 
-- +KB???? (SP1)
+- +KB918007 (SP1)
 
 - Product version: `7.10.9955`
 - Compiler (c1xx.dll) version: `13.10.9955`
