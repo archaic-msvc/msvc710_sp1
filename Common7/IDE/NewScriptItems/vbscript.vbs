@@ -1,1 +1,0 @@
-' VBScript source code
